@@ -6,7 +6,7 @@ Official PyTorch implementation of [Reference-based OCT Angiogram Super-resoluti
 
 
 
-![model](README.assets/model.jpg)
+![model](model.jpg)
 
 ### Pretrained weights
 
