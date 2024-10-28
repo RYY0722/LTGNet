@@ -12,6 +12,14 @@ Official PyTorch implementation of [Reference-based OCT Angiogram Super-resoluti
 
 https://drive.google.com/file/d/13WQ12fhQS3Karog50rDmsjFdDRYOTux-/view?usp=sharing
 
+### Quick Start
+
+Please modify the parameters in test.sh.
+
+```bash
+sh test.sh
+```
+
 ### Acknowledgment 
 
 We would like to acknowledge and thank **TTSR** for their contributions. Portions of the code in this project were adapted from their repository [TTSR: Learning Texture Transformer Network for Image Super-Resolution](https://github.com/researchmm/TTSR). 
